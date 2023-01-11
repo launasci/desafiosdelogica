@@ -26,10 +26,10 @@
 var isPalindrome = function(x) {
   const numberString = x.toString()
   const inverse = numberString.split('').reverse().join('')
-  if(inverse == numberString){
+  if(inverse === numberString){
     return true
   } return false
 }
 
-console.log(isPolindrome(121))
+console.log(isPalindrome(121))
 
