@@ -10,3 +10,4 @@
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/submissions/876449443/)
 
 ### Desafios Médios:
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
