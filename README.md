@@ -11,3 +11,4 @@
 
 ### Desafios Médios:
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
