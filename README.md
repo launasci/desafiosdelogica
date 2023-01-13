@@ -15,3 +15,4 @@
 
 ### Desafios Difíceis:
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
+- [Maximum Gap](https://leetcode.com/problems/maximum-gap/submissions/877622828/)
