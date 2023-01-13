@@ -22,3 +22,10 @@ var multiply = function(num1, num2) {
 };
 
 console.log(multiply("123456789", "987654321"))
+
+// BigInt no JavaScipt
+// function bhash(arr) { 
+//     for (var i = 0, L = arr.length, sum = new BigNumber("0"); i < L; sum = new BigNumber(Math.pow(2,i)*arr[i++]).add(sum)); 		
+//     return sum; 	}
+
+

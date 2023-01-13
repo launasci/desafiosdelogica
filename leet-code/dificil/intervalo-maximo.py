@@ -15,3 +15,16 @@
 #  1 <= nums.length <= 105
 #  0 <= nums[i] <= 109
 
+class Solution:
+  def maximumGap(self, nums):
+    if len(nums) < 2:
+      return 0
+    nums.sort()
+    maior_espaco = []
+    for i in range(0, len(nums)):
+        if i == len(nums)-1:
+            return max(maior_espaco)
+        intervalo = nums[i+1] - nums[i]
+        maior_espaco.append(intervalo)
+
+Solution().maximumGap([3])
