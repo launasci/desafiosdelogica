@@ -16,3 +16,8 @@
 ### Desafios Difíceis:
 - [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
 - [Maximum Gap](https://leetcode.com/problems/maximum-gap/submissions/877622828/)
+
+## Beecrowd
+
+### Desafios Fáceis:
+- [Hello Word](https://www.beecrowd.com.br/judge/pt/problems/view/1000)
